@@ -1,4 +1,4 @@
-# Events deep dive
+# Changing default event behavior
 
 ## Objectives
 
