@@ -80,7 +80,7 @@ Now when we click on the `input` element, only the input's event listener has be
 
 ## Summary
 
-In this lesson we saw how we can modify the standard behavior of events.  We can prevent the default behavior of events with the use of `e.preventDefault()` and we can stop events from being propagated to other elements with the use of `e.stopPropagation().`
+In this lesson we saw how we can modify the standard behavior of events.  We can prevent the default behavior of events with the use of `e.preventDefault()` and we can stop events from being propagated to other elements with the use of `e.stopPropagation()`.
 
 ## Resources
 
