@@ -82,4 +82,4 @@ In this lesson we saw how we can modify the standard behavior of events.  We can
 - [StackOverflow - Bubbling and Capturing](http://stackoverflow.com/questions/4616694/what-is-event-bubbling-and-capturing)
 - [QuirksMode - Event order](http://www.quirksmode.org/js/events_order.html)
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/events-deep-dive'>Listening To Nodes</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/changin-default-event-behavior'>Changing Default Event Behavior </a> on Learn.co and start learning to code for free.</p>
